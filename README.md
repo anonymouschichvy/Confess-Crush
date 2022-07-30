@@ -9,6 +9,7 @@ It's till have many bugs or can detected by anti-virus -_- because of curl.exe a
 #Windows 7-10 support only ive don't test it in Windows 8
 
 #Resources
+
 •"1.exe" and "2.exe" -Don't worry it's not dangerous
 
 •"curl" and "curl.exe" -It is the sending point so little anti-virus can detect it
