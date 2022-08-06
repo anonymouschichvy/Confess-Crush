@@ -6,5 +6,5 @@ intAnswer = _
 If intAnswer = vbYes Then
      oShell.run "%userprofile%/AppData/Roaming/send.exe"
 Else
-oShell.run "%userprofile%/AppData/Roaming/2.exe"
+     oShell.run "%userprofile%/AppData/Roaming/2.exe"
 End If
